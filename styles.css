@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: Arial;
     background-color: lightgray;
-    color: #1b1b1e;
+    color: black;
     padding-top: 80px;
 }
 
@@ -20,7 +20,7 @@ body {
 }
 
 .navbar a {
-    color: #53a2be;
+    color: lightblue;
     text-decoration: none;
     font-weight: bold;
 }
@@ -60,7 +60,7 @@ body {
 
 .product-card {
     background-color: lightgray;
-    border: 1px solid #d8dee6;
+    border: 1px solid white;
     padding: 16px;
 }
 
