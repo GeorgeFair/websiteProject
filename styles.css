@@ -46,6 +46,7 @@ body {
 
 .product-card {
     display: inline-block;
+    height: 420px;
     width: 300px;
     margin: 10px;
     padding: 16px;
